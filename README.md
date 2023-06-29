@@ -1,3 +1,4 @@
+![image](https://github.com/Danbethwel/laughing-fortnight/assets/93147941/4a10dfb0-4ef7-4543-b036-ce1a313515f3)
 
 ai and games application
 ChatGPT
